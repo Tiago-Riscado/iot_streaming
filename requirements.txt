@@ -1,0 +1,7 @@
+streamlit
+streamz
+pandas
+matplotlib
+numpy
+tabulate
+python-dotenv
